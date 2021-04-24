@@ -8,7 +8,6 @@ namespace ws_mid4
         {
             int day,time,nset1=5,nset2=2,nset3=3;
             string set;
-           
                 day = int.Parse(Console.ReadLine());
                 time = int.Parse(Console.ReadLine());
             do
